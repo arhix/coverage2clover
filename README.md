@@ -1,4 +1,4 @@
-# Clover.xml parser for TeamCity
+# Coverage to Atlassian Clover conversion tool
 
 Source: https://github.com/tumb1er/coverage2clover
 
